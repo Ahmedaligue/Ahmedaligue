@@ -69,11 +69,6 @@ I enjoy creating modern websites, experimenting with new ideas, and improving my
 
 ---
 
-## ⚡ Quote
-
-> **"Code. Create. Learn. Repeat."** 🚀
-
----
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
